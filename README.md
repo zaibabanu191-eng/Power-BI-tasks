@@ -158,5 +158,5 @@ Some additional learning and supporting pages are also present in the PBIX.
 This project provided practical experience in using Power BI to transform raw business data into structured analytical reports. It demonstrates the workflow from data preparation and modelling through DAX calculations, dashboard development, and interactive report features.
 
 **Project**: Company Data Analysis using Power BI
+
 **Tool**: Microsoft Power BI Desktop
-**Coursework**: Tasks 1--20
