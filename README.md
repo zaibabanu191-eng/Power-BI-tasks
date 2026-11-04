@@ -1,5 +1,6 @@
 # Power-BI-tasks
 Tasks done during course learning
+
 **Company Data Analysis using Power BI**
 **Project Overview**
 This project demonstrates an end-to-end data analysis workflow using Microsoft Power BI. It covers data preparation in Power Query, integration of sales and returns data, data modelling, DAX calculations, report development, and interactive dashboard features.
